@@ -89,3 +89,5 @@ console.log(commit)
 let push = {description: 'puts my local commits on GitHub', 
 code: 'git push'}
 console.log(push)
+
+console.log('this is a test')
